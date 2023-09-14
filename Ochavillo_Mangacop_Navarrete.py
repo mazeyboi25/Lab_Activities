@@ -1,0 +1,8 @@
+print("Kyle Ochavillo, Ali Mangacop, Mark Navarrete")
+print("Computer Science")
+print("CS1D")
+print("18, 19, 18")
+print("February 25, 2005; December 12, 2003; November 14, 2004")
+print("Blk 3 Lot 12 Cinderella Homes, Anhawon, Bulua, CDOC")
+print("Blk 11 Lot 16 SMCGK, Agusan, CDOC")
+print("Zone 6, Nasalaban, Sta. Ana, Tagoloan, Mis. Or.")
